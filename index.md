@@ -4,7 +4,7 @@ Hauptfigur im epischen Film von Ridley Scott. Er steht in der dystopischen Welt 
 Bladerunner verrichtet duch seine "Arbeit" eine Auswahl in Bezug auf gutes oder schlechte Bewohner.
 Er kommt dabei auch in den Gewissenkonflikt bezüglich seiner Gefühle zu einer Zielperson.
 
-<h2> Charakter
+## Charakter
 
 * Beruf: Auftragskiller
 * Erfahrung: Ex-Polizist
