@@ -10,3 +10,7 @@ Er kommt dabei auch in den Gewissenkonflikt bezüglich seiner Gefühle zu einer 
 * Auftrag: Replikantenjäger
 * Charakter: einsam, paranoid und melancholisch
 * Will Grenzen zwischen realen und künstlichem Leben überwinden
+
+Replicant said at the end:
+> All those moments will be lost in time, like tears… in… rain. Time to die.
+> All diese Momente werden in der Zeit verlorengehen, wie Tränen im Regen. Zeit zu sterben.
